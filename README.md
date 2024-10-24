@@ -1,6 +1,6 @@
 #
 #
-# Trabalho de Programa‡Æo Multiplataforma 
+# Trabalho de Programacao Multiplataforma 
 #
 # Grupo 0 - Professor
 #
